@@ -2,6 +2,11 @@
 
 持续构建个人的代码练习仓库（JS/TS、数据结构、算法等）
 
+# 数据结构
+
+## 数组
+
+
 ## 如何使用 vitest
 - pnpm run test 
   - 首先在 package.json 中配置好 scripts
